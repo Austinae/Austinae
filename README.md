@@ -17,7 +17,7 @@
 [<img align="left" alt="William Guerrand | Typeracer" width="30px" src="https://data.typeracer.com/public/images/tr_logo_200.cache.png" />][typeracer]
 [<img align="left" alt="William Guerrand | StackOverflow" width="25px" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" />][stackoverflow]
 [<img align="left" alt="William Guerrand | Email" width="40px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" />][email]
-[<img align="left" alt="William Guerrand | Twitter" width="30px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />][twitter]
+[<img align="left" alt="William Guerrand | Twitter" width="35px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />][twitter]
 
 <br />
 
