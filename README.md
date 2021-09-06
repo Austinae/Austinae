@@ -11,13 +11,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="William Guerrand | Website" width="30px" src="https://williamguerrand.com/logo.png" />][website]
+[<img align="left" alt="William Guerrand | Email" width="40px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" />][email]
 [<img align="left" alt="William Guerrand | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="William Guerrand | Twitter" width="35px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />][twitter]
+[<img align="left" alt="William Guerrand | Website" width="30px" src="https://williamguerrand.com/logo.png" />][website]
 [<img align="left" alt="William Guerrand | Lichess" width="30px" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png" />][lichess]
 [<img align="left" alt="William Guerrand | Typeracer" width="30px" src="https://data.typeracer.com/public/images/tr_logo_200.cache.png" />][typeracer]
 [<img align="left" alt="William Guerrand | StackOverflow" width="25px" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" />][stackoverflow]
-[<img align="left" alt="William Guerrand | Email" width="40px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" />][email]
-[<img align="left" alt="William Guerrand | Twitter" width="35px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />][twitter]
 
 <br />
 
