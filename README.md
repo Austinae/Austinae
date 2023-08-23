@@ -1,5 +1,5 @@
- [//]: # (https://gpvc.arturio.dev/austinae) 
- [//]: # (Unfortunately arturio's repo, as seen above was archived and the link isn't working so I built my own "https://github.com/Austinae/github-profile-view-tracker")
+[//]: # (https://gpvc.arturio.dev/austinae) 
+[//]: # (Unfortunately arturio's repo, as seen above was archived and the link isn't working so I built my own "https://github.com/Austinae/github-profile-view-tracker")
 
 [![Profile Views](https://www.williamguerrand.com/api/counter?username=Austinae&scale=1.5&icon=PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MS42NCAxMjIuODgiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbC1ydWxlOmV2ZW5vZGQ7fTwvc3R5bGU%2BPC9kZWZzPjx0aXRsZT5iZWFyZGVkLW1hbjwvdGl0bGU%2BPHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMjIuODgsOTQuNjVhMTguMiwxOC4yLDAsMCwwLTEsMy4yNEMxMy4wNSw4Ny4xNSwxMS4xMiw4NC43MSwxMC4xNSw3MWguMjFjLjU4LTEuOS42OS00Ljk0LDEuNzQtNS42OWEyMi43NCwyMi43NCwwLDAsMCwuMjctNS44NWMwLS4yNy0uMDYtLjUyLS4xLS43OCwyLjIxLDIuODgsMi44MSw1LjQ1LDQuNjUsOS40OHMzLjE3LDQuNjYsNy43LDUuNDhhMjEuNjEsMjEuNjEsMCwwLDAsMy43NS4zNGM0LjYzLDAsOS4xMy0uNjksMTAuOTItNC43NC41My0xLjIxLDEuNDEtMi40OSwyLjA1LTMuODIuODQtMS43NiwyLjMzLTIuNzksMy4yMy0yLjc1czIuMjEsMS4xNCwzLDIuOWMxLjE0LDIuNTIsMi42NCw1LjMxLDMuNjEsNi4wNkE3LjQ1LDcuNDUsMCwwLDAsNTMuNDksNzNjMi44NywxLjExLDguNDMsMS4wOCwxMS40OS41OC4yMywwLC40NS0uMDguNjgtLjEzYTguMjksOC4yOSwwLDAsMCw0LjU5LTIuOTUsMjEuMzIsMjEuMzIsMCwwLDAsMy41Ni02LjkzLDIzLjYsMjMuNiwwLDAsMSwyLjMzLTQuNDhjLjA5LS4xMi4yMi0uMjguMzgtLjQ2LDAsMSwwLDIuMTIsMCwzLjI3YTYxLjMsNjEuMywwLDAsMCwuODksNi42MkM3Ni41Niw4Miw3NCw4Nyw2NS42Miw5Ny43NSw2My4wOCw4Ny42Nyw0NS44OSw4NC4xNCw0My44LDg3LjkyYy0zLjM0LTQuMzQtMTguNjgsMS40Ni0yMC45Miw2LjczWk0yOC42LDU3LjgzQzI3LjY5LDYxLDM0LjY5LDYxLjA4LDM2LDY1LjQxbC41OC0zLjYxYy41Mi00LjM4LTUtMy43OC04LTRabTM1LTEuOTRjLS45LDMuMTksNi4xLDMuMjUsNy4zOSw3LjU5bC41OS0zLjYxYy41Mi00LjM4LTUtMy43OS04LTRaTTExLjIxLDUzLjQ4YzAtOC4yMS42OS0xNC42LDMtMTUuNTcsMS41LTMuMSwzLjUxLTMuODgsNS44LTMuMy40NC0yLjI3LS40MS00Ljg4LTEuNTYtNy43OCwxLjkuODYsMy43NywzLjgyLDQuNTIsNy44Niw1LjE0LTEuMjYsMTEuNjItMS4yNywxOS40OSwwYTcsNywwLDAsMCw1LDEuNjhjMi43Ni0uMTEsNS0xLjEzLDcuNDEtMS4wNiwxLjM0LDAsMi42MywxLjA4LDQuMSwxLjIzLjc4LjA4LDEuNTUuMTMsMi4zMy4xNGEyMi4yOSwyMi4yOSwwLDAsMCwxMC44LTIuNDVjMTMuOC03LjA5LDctMjQuNS01LjYyLTI3Ljc3LTcuNjEtMi0xNy4xMy0uODMtMjUuMzMtMy42OUMzOSwyLDM2LjczLDEuMSwzNC4yNywwbDQuNDUsNS43NGMtNy4zMi0yLjQ1LTEwLjg5LTMuNTUtMTYtLjQyLDMuMjMtLjQyLDUuNzUtLjIyLDYuNTkuMjQtNC4xMywxLjA2LTguMTIsMy0xMC42OSw1LjUxQTE2LjU2LDE2LjU2LDAsMCwxLDI4LjM4LDE0Yy02LjM2LDAtMTEuMTQtMS4xLTE1LjU0LS42NC0yLjQ4LjI2LTkuMzEsMS43OC01LjgzLDUuMzVhMy42NiwzLjY2LDAsMCwwLDMuMTIuODJjLjI0LDEuNjEtMy4wOCwyLTQuNjIsM0MyLjk0LDI0LjMtLjE0LDI3LjMzLDAsMzAuNjhhNS42OCw1LjY4LDAsMCwwLDIuNDMsNC4xOUMwLDM5LjA5LjczLDQ0LjUzLDQuMDUsNTFsMi42OCw1LjM2TDguMzQsNzFIOC40Yy4yLDE4LjY4LDIuNDksNDguNDcsMjcuMzMsNTEuNzlhMjgsMjgsMCwwLDAsOC0uMzljMTYuMTMsNCwzMy0xNi4xOSwzNC4zNi0zMC40NmExMjUuNzYsMTI1Ljc2LDAsMCwwLC41OC0xOS4xTDc4LDcwLjUyYTQuMTQsNC4xNCwwLDAsMCwuMjQuNDNjMC0zLjc2LS4xNS01LjguNjUtOS40NmEyOC41NSwyOC41NSwwLDAsMCwuMzgtNi43LDEuMTUsMS4xNSwwLDAsMCwwLS40OSwxNS44MSwxNS44MSwwLDAsMSwuNTQtNS4xMmMxLTMuMTIsMi45Mi0zLjY0LDEtOC4yMS0xLjY5LTQuNTktNC44My01LjgxLTkuMjgtNGExLjMsMS4zLDAsMCwwLC40LDEuMmMyLDIuMzgsMS4xNSwzLjQ1LDIuMTEsNi44MS4zNywxLjMxLDEsMi40OSwxLjQzLDQuMjVhMjguNjgsMjguNjgsMCwwLDEsLjc4LDQuMThjLTcuOS0xLTE0Ljg4LTEtMjIuNzIsMS44Ni0yLjUuOTEtNS41MywyLjkyLTcuNjEsMy40Ni0zLjE0LjgzLTYtMS40Mi04Ljg0LTIuNjFhNDQuNzIsNDQuNzIsMCwwLDAtMjMuNC0zLDE1LDE1LDAsMCwwLTIuNS4zMlpNMjkuNSwxMDEuMzFhMTEuNjIsMTEuNjIsMCwwLDEsMi4yNy01LjFjMS44NC0yLjY4LDMtMi41MSw1LjY4LTIuMDlhMzguNDcsMzguNDcsMCwwLDAsMTQuMjctLjQzYzMuMDgsMCw2LjI0LDUuMzUsNS45Myw3Ljg2cy00LjgyLDUuMTgtNy4yNCw1LjE2Yy0yLjE2LDAtNC40NC0xLjE3LTYuODItMy41Mi00Ljg0LDUtOS43OSw0LjQyLTE0LjA5LTEuODhaIi8%2BPC9zdmc%2B)](https://github.com/Austinae/github-profile-view-tracker)
 
@@ -70,9 +70,9 @@
       <br>
       <br>
       <img width="30px" alt="RoR" title="RoR" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-      <img width="30px" alt="flask" title="flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
       <img width="30px" alt="nodejs" title="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <img width="30px" alt="express" title="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+      <img width="30px" alt="expressjs" title="expressjs" src="https://cdn.simpleicons.org/express/white" />
+      <img width="30px" alt="flask" title="flask" src="https://cdn.simpleicons.org/flask/white" />
     </kbd>
      <kbd>
       <kbd>Mobile</kbd>
@@ -109,21 +109,22 @@
       <img width="30px" alt="matlab" title="matlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
       <img width="30px" alt="tensorflow" title="tensorflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
       <img width="30px" alt="numpy" title="numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-      <img width="30px" alt="pandas" title="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+      <img width="30px" alt="pandas" title="pandas" src="https://cdn.simpleicons.org/pandas/white" />
     </kbd>
     <kbd>
       <kbd>VCS & Devops</kbd>
       <br>
       <br>
+      <img width="30px" alt="aws" title="aws" src="https://cdn.simpleicons.org/amazonaws/white" />
       <img width="30px" alt="heroku" title="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
       <img width="30px" alt="git" title="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
       <img width="30px" alt="docker" title="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
     </kbd>
     <kbd>
-      <kbd>Terminal Scripts</kbd>
+      <kbd>CLI</kbd>
       <br>
       <br>
-      <img width="30px" alt="bash" title="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+      <img width="30px" alt="bash" title="bash" src="https://cdn.simpleicons.org/gnubash/white" />
     </kbd>
     <kbd>
       <kbd>Tools</kbd>
@@ -143,7 +144,7 @@
       <kbd>Game Development</kbd>
       <br>
       <br>
-      <img width="30px" alt="unity" title="unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+      <img width="30px" alt="unity" title="unity" src="https://cdn.simpleicons.org/unity/white" />
     </kbd>
   </p>
 </div>
