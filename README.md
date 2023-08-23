@@ -112,7 +112,7 @@
       <img width="30px" alt="pandas" title="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
     </kbd>
     <kbd>
-      <kbd>System, Networking & Deployment</kbd>
+      <kbd>VCS & Devops</kbd>
       <br>
       <br>
       <img width="30px" alt="heroku" title="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
