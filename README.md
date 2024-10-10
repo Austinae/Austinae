@@ -229,5 +229,10 @@ If you have any questions about web development, writing mistake-free documentat
         <img src="https://avatars.githubusercontent.com/u/143287424?s=200&v=4" alt="Nilles-Wills organization photo" align="center" width="50" />
       </a>
     </td>
+    <td>
+      <a href="https://github.com/imminova">
+        <img src="https://avatars.githubusercontent.com/u/183965091?s=200&v=4" alt="Nilles-Wills organization photo" align="center" width="50" />
+      </a>
+    </td>
   </tr>
 </table>
