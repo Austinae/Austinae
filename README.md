@@ -1,4 +1,4 @@
-[![](https://www.williamguerrand.com/api/counter?username=Austinae&scale=.5)](https://github.com/Austinae/github-profile-view-tracker)
+[![](https://www.williamguerrand.com/api/counter?username=Austinae&scale=1)](https://github.com/Austinae/github-profile-view-tracker)
 
 ## Let's work together
 
